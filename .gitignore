@@ -1,0 +1,10 @@
+# Python 字节码缓存
+__pycache__/
+*.py[cod]
+
+# 游戏存档（想用 git 管理存档就删掉这行）
+save.json
+
+# 编辑器
+.idea/
+.vscode/
